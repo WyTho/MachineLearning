@@ -1,3 +1,4 @@
 .idea
 *.iml
 jupyter/.ipynb_checkpoints
+jupyter/_OLD/.ipynb_checkpoints
